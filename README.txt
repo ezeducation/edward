@@ -1,3 +1,17 @@
+
+
+I have taken this HTML5 UP template in an attempt to modify it into an online CV.
+I am using this project to achieve two goals:-
+1) To improve my (very limited) HTML and CSS skills
+2) More importantly, to secure employment
+
+Edward
+
+
+
+
+
+
 Hyperspace by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
